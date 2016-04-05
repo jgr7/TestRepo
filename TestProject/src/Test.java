@@ -1,5 +1,5 @@
 
 assaas
-public class Test {
+public class Test qwqwqw{
 //qwwqqww
 }
